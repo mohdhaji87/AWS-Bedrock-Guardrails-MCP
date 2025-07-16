@@ -1,0 +1,10 @@
+[project]
+name = "bedrock-guardrails-mcp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "boto3>=1.39.7",
+    "mcp[cli]>=1.11.0",
+]
