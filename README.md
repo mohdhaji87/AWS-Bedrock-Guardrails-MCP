@@ -68,6 +68,16 @@ To use this server as a tool in Claude Desktop, add the following to your `claud
 - **Export to Terraform:**
   Use `export_guardrail_to_terraform(guardrail_id)` to get a `.tf` resource block for your guardrail.
 
+
+
+## Screenshots 
+
+<img width="687" height="651" alt="image" src="https://github.com/user-attachments/assets/5d8481f4-6982-4c2d-9ad8-a86302e71db2" />
+
+
+<img width="1000" height="755" alt="image" src="https://github.com/user-attachments/assets/15167480-c21d-41bb-a8c3-2408e5e1da60" />
+
+
 ## Impact & Use Cases
 - **Enterprise LLM Safety:** Centrally manage and automate Bedrock Guardrails for all your generative AI applications.
 - **DevOps & IaC:** Export guardrails to Terraform for version control, reproducibility, and CI/CD integration.
